@@ -5,12 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyA16D-ty7zGE4vSGyzTK14lel0uWf1OxU8',
-    authDomain: 'userauthsecond.firebaseapp.com',
-    databaseURL: 'https://userauthsecond.firebaseio.com',
-    projectId: 'userauthsecond',
-    storageBucket: 'userauthsecond.appspot.com',
-    messagingSenderId: '323450669295'
+    apiKey: "AIzaSyC9dpJe5d34Es7UqHd5eNG01ve9c0x7gT8",
+    authDomain: "social-network-719a2.firebaseapp.com",
+    databaseURL: "https://social-network-719a2.firebaseio.com",
+    projectId: "social-network-719a2",
+    storageBucket: "social-network-719a2.appspot.com",
+    messagingSenderId: "543107731718",
+    appId: "1:543107731718:web:04b22296c323086738ce87"
   }
 };
 
